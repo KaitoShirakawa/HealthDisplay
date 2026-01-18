@@ -1,0 +1,8 @@
+name: HealthDisplay
+main: KaitoShirakawa\HealthDisplay\Main
+version: 0.0.1
+api: 2.0.0
+load: POSTWORLD
+author: Kaito Shirakawa
+description: Displays the player's health below their name
+website: https://github.com/KaitoShirakawa/HealthDisplay
